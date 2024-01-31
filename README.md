@@ -1,5 +1,14 @@
 ## LDTS_0603 - Dino
 
+><br />
+>Course Unit: [Laboratório de Desenho e Teste de Software](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501676 "Software Design and Testing Laboratory"), 2nd year 
+><br />
+>Course: **Informatics and Computer Engineering** 
+><br />
+> Faculty: **FEUP** (Faculty of Engineering of the University of Porto)
+><br/>
+> Evaluation: **19.6**/20
+
 This game is strongly inspired on the hidden Chrome browser game when there is no internet. The objective of the game is to control Dino avoiding colliding with obstacles (cities and planes) coming from the right.
 There are collectables that, if you catch them, can help you to score more points. The points are counted by the distance you travelled since the start of the game.
 This project was developed by:
